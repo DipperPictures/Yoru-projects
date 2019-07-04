@@ -1,0 +1,19 @@
+
+p{
+    margin-top: 1.5rem;
+    color: #000;
+    line-height: 1.5;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 300;
+}
+a{
+    color: #518aff;
+    font-weight: 800;
+    text-decoration: none;
+}
+a:hover{
+    color: #000;
+    font-weight: 800;
+    text-decoration: none;
+}

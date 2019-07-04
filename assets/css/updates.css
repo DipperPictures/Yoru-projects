@@ -1,0 +1,112 @@
+.pfp_upd{
+    margin-right: 20px;  
+    margin-top: 120px;
+    margin-bottom: 120px;
+    padding-right: 20px;
+}
+.pfp_upd > img{
+    width: 600px;
+}
+.txtbox{
+    padding: 100px 120px 100px 100px;
+    margin: 20px;
+    width: 110%;
+    height: 75%;
+    
+    
+    background-image: url(../../design/textbox.png);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.txtbox:hover{
+    padding: 100px 120px 100px 100px;
+    margin: 20px;
+    width: 110%;
+    height: 75%;
+    
+    
+    background-image: url(../../design/textbox_glow.png);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.txtbox > h4 {
+    margin-top: 40px;
+    font-size: 30px;
+    color: white !important;
+    font-family: Montserrat;
+    font-weight: 350;
+    line-height: 1.25;
+}
+/* .editto{
+    width: 40%;
+    text-align: center;
+
+    background-color: #78ffce;
+} */
+/* .bg_edit{
+    background-color: #198a7b;
+    width: 100%;
+    background-blend-mode: overlay;
+    border-radius: 35px;
+} */
+.imgg{
+            position: relative;
+            margin:0 0 2rem 0;
+            padding: 0;
+			width: 200px;
+            height: 200px;
+            
+            background-size: cover;
+            background-position: center;
+			white-space: nowrap;
+            overflow: hidden;
+            border-radius: 50%;
+        }
+.imgg:hover
+{
+        -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+}
+/* .imgg img:hover{
+    position: relative;
+    margin: 0 0 20px 0;
+    padding: 0;
+    width: 700px;
+    height: 700px;
+    background-size: cover;
+    background-position: center;
+    white-space: nowrap;
+    overflow: hidden;
+} */
+.effect{
+    margin: 0 0 0 0.5rem;
+    width: 100%;
+    height: 45rem;
+    background-image: url(../../design/red.png);
+    background-size: cover;
+}
+.effect:hover{
+    margin: 0 0 0 0.5rem;
+    width: 100%;
+    height: 45rem;
+    background-image: url(../../design/red-black.png);
+    background-size: cover;
+}
+@media screen and (max-width: 480px){
+
+}
+@media screen and (max-width: 1200px){
+
+}
+
+@media screen and (max-width: 990px){
+    
+}
+@media screen and (max-width: 736px){
+    
+}
+
+  
