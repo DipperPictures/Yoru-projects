@@ -1,15 +1,15 @@
 @font-face{
-    src: url(..\assets\fonts\AbrilFatface-Regular.tff);
-    font-family: Abril Fatface Regular;
+    src: url(..\assets\fonts\AbrilFatface-Regular.tff) !important;
+    font-family: Abril Fatface Regular !important;
     
 }
 @font-face{
-    font-family: 18thCentury Regular;
-    src: url(..\assets\fonts\18cents.tff);
+    font-family: 18thCentury Regular !important;
+    src: url(..\assets\fonts\18cents.tff) !important;
 }
 @font-face{
-    font-family: Montserrat;
-    src: url(..\assets\fonts\MontserratAlternates-Medium.tff);
+    font-family: Montserrat !important;
+    src: url(..\assets\fonts\MontserratAlternates-Medium.tff) !important;
 }
 .box_p{
     text-transform: uppercase;
