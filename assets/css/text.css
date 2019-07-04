@@ -1,7 +1,6 @@
 @font-face{
-    src: url(..\fonts\AbrilFatface-Regular.tff) !important;
     font-family: 'Abril Fatface Regular' !important;
-    
+    src: url(..\fonts\AbrilFatface-Regular.tff) !important;
 }
 @font-face{
     font-family: '18thCentury Regular' !important;
