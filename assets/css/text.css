@@ -10,7 +10,7 @@
 }
 @font-face{
     font-family: 'Montserrat' !important;
-    src: url(..\fonts\MontserratAlternates-Medium.tff) !important;
+    src: url(..\fonts\MontserratAlternates-Medium.otf) !important;
 }
 .box_p{
     text-transform: uppercase;
