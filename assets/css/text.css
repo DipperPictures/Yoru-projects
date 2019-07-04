@@ -1,7 +1,13 @@
 @font-face{
-    font-family: 'Abril Fatface Regular', '18thCentury Regular', 'Montserrat';
+    font-family: 'Abril Fatface Regular';
     src: url('C:\Users\USER\Desktop\Yoru-web\assets\fonts\AbrilFatface-Regular.tff');
+}
+@font-face{
+    font-family: '18thCentury Regular';
     src: url('C:\Users\USER\Desktop\Yoru-web\assets\fonts\18cents.tff');
+}
+@font-face{
+    font-family: 'Montserrat';
     src: url('C:\Users\USER\Desktop\Yoru-web\assets\fonts\MontserratAlternates-Medium.tff');
 }
 .box_p{
