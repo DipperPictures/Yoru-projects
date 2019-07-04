@@ -1,14 +1,14 @@
 @font-face{
     src: url(..\fonts\AbrilFatface-Regular.tff) !important;
-    font-family: Abril Fatface Regular !important;
+    font-family: 'Abril Fatface Regular' !important;
     
 }
 @font-face{
-    font-family: 18thCentury Regular !important;
+    font-family: '18thCentury Regular' !important;
     src: url(..\fonts\18cents.tff) !important;
 }
 @font-face{
-    font-family: Montserrat !important;
+    font-family: 'Montserrat' !important;
     src: url(..\fonts\MontserratAlternates-Medium.tff) !important;
 }
 .box_p{
@@ -29,7 +29,7 @@
     line-height: 1;
     font-weight: 500;
     letter-spacing: 0.1rem;
-    font-family: 'Abril Fatface Regular';
+    font-family: Abril Fatface Regular;
 }
 .box_h2.red{
     text-decoration-line: underline;
@@ -41,7 +41,7 @@
     line-height: 1;
     font-weight: 500;
     letter-spacing: 0.1rem;
-    font-family: 'Abril Fatface Regular';
+    font-family: Abril Fatface Regular;
 }
 .normal_h2{
     
@@ -49,7 +49,7 @@
     line-height: 1;
     font-weight: 400;
     letter-spacing: 0.1rem;
-    font-family: 'Abril Fatface Regular';
+    font-family: Abril Fatface Regular;
 }
 .essay_p{
     font-family: 18thCentury Regular;
